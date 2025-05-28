@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "system_health_check"
+echo "Check CPU, disk, and memory usage."
