@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "log_rotation"
+echo "Compress .log files older than 7 days."
